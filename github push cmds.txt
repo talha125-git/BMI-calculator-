@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "add github cmd"
+git commit -m "add live link"
 git push -u origin main                  
