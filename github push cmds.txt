@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "add title"
+git commit -m "make in script"
 git push -u origin main                  
