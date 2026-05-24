@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "chnages"
+git commit -m "changes"
 git push -u origin main                  
