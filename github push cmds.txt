@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "changes"
+git commit -m "changes in title"
 git push -u origin main                  
